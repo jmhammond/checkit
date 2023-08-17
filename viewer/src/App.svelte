@@ -40,7 +40,7 @@
         <p class="text-center text-muted">
             <small>
                 <em>
-                    Randomized exericse bank powered by
+                    Randomized exercise bank powered by
                     <a target="_blank" href="https://checkit.clontz.org">CheckIt</a>
                     v0.2.6
                 </em>
